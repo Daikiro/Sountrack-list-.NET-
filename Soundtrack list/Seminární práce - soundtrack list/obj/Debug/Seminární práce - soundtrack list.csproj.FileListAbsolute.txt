@@ -1,0 +1,31 @@
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\Seminární práce - soundtrack list.exe.config
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\Seminární práce - soundtrack list.exe
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\Seminární práce - soundtrack list.pdb
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.csprojAssemblyReference.cache
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární_práce___soundtrack_list.Form1.resources
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární_práce___soundtrack_list.Properties.Resources.resources
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.csproj.GenerateResource.cache
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.csproj.CoreCompileInputs.cache
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.exe
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.pdb
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární_práce___soundtrack_list.Form2.resources
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\Interop.WMPLib.dll
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Interop.WMPLib.dll
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\theri\Desktop\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.csproj.ResolveComReference.cache
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\Seminární práce - soundtrack list.exe.config
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\Seminární práce - soundtrack list.exe
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\Seminární práce - soundtrack list.pdb
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\Interop.WMPLib.dll
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Interop.WMPLib.dll
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.csproj.ResolveComReference.cache
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární_práce___soundtrack_list.Form1.resources
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární_práce___soundtrack_list.Form2.resources
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární_práce___soundtrack_list.Properties.Resources.resources
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.csproj.GenerateResource.cache
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.exe
+C:\Users\Luke\Desktop\PDA-semestrální práce\Seminární práce - soundtrack list\Seminární práce - soundtrack list\obj\Debug\Seminární práce - soundtrack list.pdb

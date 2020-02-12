@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<songy>
+  <songs id="1">
+    <nazev>The Final Countdown</nazev>
+    <autor>Europe</autor>
+	<poradi>1</poradi>
+	<delka>309</delka>
+  </songs>
+  <songs id="2">
+    <nazev>Surrender</nazev>
+    <autor>Cheap Trick</autor>
+	<poradi>2</poradi>
+	<delka>255</delka>
+  </songs>
+  <songs id="3">
+    <nazev>Monody</nazev>
+    <autor>TheFatRat</autor>
+	<poradi>3</poradi>
+	<delka>291</delka>
+  </songs>
+  <songs id="4">
+    <nazev>Africa</nazev>
+    <autor>Toto</autor>
+	<poradi>4</poradi>
+	<delka>274</delka>
+  </songs>
+  <songs id="5">
+    <nazev>Run To The Hills</nazev>
+    <autor>Iron maiden</autor>
+	<poradi>5</poradi>
+	<delka>235</delka>
+  </songs>
+  <songs id="2">
+    <nazev>Surrender</nazev>
+    <autor>Cheap Trick</autor>
+	<poradi>6</poradi>
+	<delka>255</delka>
+  </songs>
+</songy>
